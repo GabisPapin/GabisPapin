@@ -16,7 +16,6 @@ companies. In my experience with a Quality Assurance the comunication and techno
 Now, as a software developer my principal objective is work in a company where people collaborate with each other, because we must search and 
 bring solution for the people issues.
 
-https://myoctocat.com/build-your-octocat/
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gabrielapapin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabrielapapin/) 
