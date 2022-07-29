@@ -8,10 +8,10 @@ e o que mais me ajudava na solução de problemas era justamente a comunicação
 Na minha jornada como desenvolvedora de software meu principal objetivo é trabalhar em uma empresa que valorize as pessoas, o 
 trabalho em equipe e a colaboração, porque buscamos trazer solução de problemas para pessoas e não para máquinas.
 
-Hi, my name is Gabriela and I believe how kindness could be powerful! When you help someone even doing a simple thing, you can build 
+Hi, my name is Gabriela and I believe that kindness can be powerful! When you help someone even doing a simple thing, you can build 
 a great relatioship not only with the person but you can build a pleasant and welcoming environment. I realized that when I worked as a team 
 and because of that the collaboration and empathy are part of my values.
-During my personal and professional journey I improved my speech and I know I can do better sharing knouwledge and experiences with colleges/ 
+During my personal and professional journey I improved my speech and I know I can do better sharing knowledge and experiences with colleges/ 
 companies. In my experience with a Quality Assurance the comunication and technology were the most important things to solve problems. 
 Now, as a software developer my principal objective is work in a company where people collaborate with each other, because we must search and 
 bring solution for the people issues.
