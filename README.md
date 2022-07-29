@@ -1,7 +1,7 @@
 # 💫About Me :
 Olá, meu nome é Gabriela e eu acredito na força da gentileza. Quando você ajuda alguém mesmo que em algo pequeno e simples,
 você não só torna melhor o relacionamento com essa pessoa mas também pode gerar um ambiente agradável e acolhedor ao seu redor. 
-Eu consegui perceber isso quando eu trabalhei em equipe, por isso a colaboração e empatia fazer parte dos meus valores.
+Eu consegui perceber isso quando eu trabalhei em equipe, por isso a colaboração e empatia fazem parte dos meus valores.
 Durante a minha trajetória de estudos e trabalho consegui melhorar a forma de me comunicar e eu sei que vou aperfeiçoar 
 ainda mais contribuindo com a equipe/ empresa na troca de conhecimentos e experiências. Eu trabalhava com controle de qualidade
 e o que mais me ajudava na solução de problemas era justamente a comunicação e a tecnologia.
