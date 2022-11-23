@@ -16,7 +16,8 @@ companies. In my experience with a Quality Assurance the comunication and techno
 Now, as a software developer my principal objective is work in a company where people collaborate with each other, because we must search and 
 bring solution for the people issues.
 
-##Email para contato: gabrielapapin@gmail.com
+## Email para contato: 
+  gabrielapapin@gmail.com
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielapapin/) 
