@@ -17,7 +17,7 @@ Now, as a software developer my principal objective is work in a company where p
 bring solution for the people issues.
 
 ## Email para contato: 
-  gabrielapapin@gmail.com
+  gabrielapapin20@gmail.com
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielapapin/) 
