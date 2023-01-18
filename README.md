@@ -28,5 +28,3 @@ bring solution for the people issues.
 # 📊GitHub Stats :
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GabisPapin&theme=blue-green&hide_border=false)<br/>
-
-![snake gif](https://github.com/GabisPapin/GabisPapin/blob/output/github-contribution-grid-snake.svg)
