@@ -29,3 +29,4 @@ bring solution for the people issues.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GabisPapin&theme=blue-green&hide_border=false)<br/>
 
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
