@@ -24,7 +24,7 @@ bring solution for the people issues.
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/GabrielaPapin.svg?style=social&label=Follow%20%40GabrielaPapin)](https://twitter.com/GabrielaPapin)
 
 # 💻Tech Stack
-![Typescript](https://user-images.githubusercontent.com/94481706/214156931-8ea5afe2-5aff-412b-88d5-a8d59a2d2031.png?style=for-the-badge)
+<img src="https://user-images.githubusercontent.com/94481706/214158003-9714bcb8-6417-483f-822d-51077a331486.png" height="100" width="100">
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 # 📊GitHub Stats :
 
