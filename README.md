@@ -24,7 +24,7 @@ bring solution for the people issues.
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/GabrielaPapin.svg?style=social&label=Follow%20%40GabrielaPapin)](https://twitter.com/GabrielaPapin)
 
 # 💻Tech Stack
-<img src="https://user-images.githubusercontent.com/94481706/214158003-9714bcb8-6417-483f-822d-51077a331486.png" height="50" width="50"><img src="https://user-images.githubusercontent.com/94481706/214159027-ab546a58-acb5-425e-8b75-5b02f12afd72.png" height="50" width="50"><img src="" height="50" width="50"><img src="(https://user-images.githubusercontent.com/94481706/214160340-95f6f951-3197-4f60-b2a0-5a23e12f370d.png" height="50" width="50" borderRadius="6">
+<img src="https://user-images.githubusercontent.com/94481706/214158003-9714bcb8-6417-483f-822d-51077a331486.png" height="50" width="50"><img src="https://user-images.githubusercontent.com/94481706/214159027-ab546a58-acb5-425e-8b75-5b02f12afd72.png" height="50" width="50"><img src="" height="50" width="50"><img src="(https://user-images.githubusercontent.com/94481706/214160340-95f6f951-3197-4f60-b2a0-5a23e12f370d.png" height="50" width="50">
 
 
 # 📊GitHub Stats :
