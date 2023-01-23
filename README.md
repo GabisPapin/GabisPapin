@@ -24,7 +24,7 @@ bring solution for the people issues.
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/GabrielaPapin.svg?style=social&label=Follow%20%40GabrielaPapin)](https://twitter.com/GabrielaPapin)
 
 # 💻Tech Stack
-<img src="https://user-images.githubusercontent.com/94481706/214158003-9714bcb8-6417-483f-822d-51077a331486.png" height="50" width="50"><img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27714%2Fnestjs&psig=AOvVaw3Caj4I36vFQNp3GKpJ1BsE&ust=1674599929942000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjfz4Hh3vwCFQAAAAAdAAAAABAE" height="50" width="50"><img src="https://user-images.githubusercontent.com/94481706/214159027-ab546a58-acb5-425e-8b75-5b02f12afd72.png" height="50" width="50"><img src="https://user-images.githubusercontent.com/94481706/214160340-95f6f951-3197-4f60-b2a0-5a23e12f370d.png" height="50" width="50">
+<img src="https://user-images.githubusercontent.com/94481706/214158003-9714bcb8-6417-483f-822d-51077a331486.png" height="50" width="50"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Z8WkK9ON--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lgtxfuh1u1idlr09k0n7.png" height="50" width="50"><img src="https://user-images.githubusercontent.com/94481706/214159027-ab546a58-acb5-425e-8b75-5b02f12afd72.png" height="50" width="50"><img src="https://user-images.githubusercontent.com/94481706/214160340-95f6f951-3197-4f60-b2a0-5a23e12f370d.png" height="50" width="50">
 
 
 # 📊GitHub Stats :
